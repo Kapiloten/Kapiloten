@@ -82,7 +82,7 @@ Python · C · C++ · Java · PyTorch · PuLP · Gurobi · LangGraph · Streamli
 
 ## Experience
 
-**Data Analyst Intern — Exadis (2025)**
+**Data Analyst Intern - Exadis (2025)**
 
 Developed BI dashboards with Qlik Sense, automated reporting workflows and improved business KPI monitoring.
 
